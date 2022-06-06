@@ -1,4 +1,4 @@
-Lab 1 - Assignment 
+# Lab 1 - Assignment 
 
 Below are the extra features which I tried: 
  - For each status (that has a colour of grey, green and blue) I changed the colour of the cards to match their respective status. 
